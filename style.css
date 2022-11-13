@@ -70,7 +70,7 @@ body
 
     /* 이미지 반복되지 않게 하기 위해 no-repeat으로 설정 */
     /* 비주얼영역에 꽉 찰 수 있게 하기 위해 cover로 설정 */
-    background: url(../img/visual.png) no-repeat center/cover; /* + + + + + + + + + */
+    background: url(visual.png) no-repeat center/cover; /* + + + + + + + + + */
 
     /* mainTitle을 아래로 좀 끌어내리기 위해 margin-top을 줬는데 visual 전체가 아래로 밀리게 되므로, 이를 막기 위함.
     이렇게 margin 상쇄현상이 일어날 떄는 배경과 같은 색으로 해서 1px의 border를 주게 되면 margin 상쇄현상이 없어지게 됨. */
